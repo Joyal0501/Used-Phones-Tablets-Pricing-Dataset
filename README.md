@@ -7,7 +7,6 @@ Analyzed and Vizualized data to get insights
 Did Standardization on featuers & then Used:
 
 1. Linear Regression
-2. 
       Scores:
       mean_squared_error :  0.05491958955392918
       mean_absolute_error :  0.18875462557212483
