@@ -4,7 +4,9 @@ Filled Missing Values by mapping and ffill method
 
 Analyzed and Vizualized data to get insights
 
-Did Standardization on featuers & then Used:
+Did Standardization on featuers & then divided Data into train-test ratio of 25%
+
+Models Used & Results:
 
 1. Linear Regression
       Scores:
